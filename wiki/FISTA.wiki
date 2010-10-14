@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This project is being used by
+
+
+= Details =
+
+FISTA -- a L1 norm based algorithom for solving the deconvolution problem in
+         radio astronomy
+
+Details can be found in paper "A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems"
